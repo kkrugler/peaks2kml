@@ -107,7 +107,7 @@ public class KmlGenerator {
         if (peak.getDifficultyClass().length() != 0) {
             result.append(peak.getDifficultyClass());
         } else {
-            result.append("<unknown>");
+            result.append("unknown");
         }
         return result.toString();
     }
