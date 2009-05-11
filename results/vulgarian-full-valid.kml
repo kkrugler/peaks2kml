@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="classUnknown">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class1">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class1s3">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class2">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class2-3">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class3">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class3s4">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class3-4">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class4">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="class5">
+			<LabelStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Mt. Whitney</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				14,491ft / 4,417mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,491ft. Highest peak in California. Easiest route to summit is class 1. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Whitney">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150227/mount-whitney.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#whitney">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA70&lpg=PA70&dq=%22Mount+Whitney%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29210122566052,36.57871113728692</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Williamson</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				14,375ft / 4,382mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,375ft. 2nd highest peak in California. Easiest route to summit is class 2. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Williamson">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150438/mount-williamson.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#williamson">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA81&lpg=PA81&dq=%22Mount+Williamson%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31117814090852,36.655937861794136</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>White Mountain Peak</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				14,246ft / 4,342mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,246ft. 3rd highest peak in California. Easiest route to summit is class 1. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=White Mountain Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150221/white-mountain-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#white">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.25574773650065,37.63417434196121</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Palisade</name>
+			<styleUrl>#class4</styleUrl>
+			<Snippet maxLines="2" >
+				14,242ft / 4,341mClass 4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,242ft. 4th highest peak in California. Easiest route to summit is class 4. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=North Palisade">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150406/north-palisade.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#palisade">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA241&lpg=PA241&dq=%22North+Palisade%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.5144677228573,37.09430958826772</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Shasta</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				14,162ft / 4,317mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,162ft. 5th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Shasta">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150188/mount-shasta.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#shasta">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-122.19465127983912,41.4090016069067</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Sill</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				14,153ft / 4,314mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,153ft. 6th highest peak in California. Easiest route to summit is class 2. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Sill">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150410/mount-sill.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#sill">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA238&lpg=PA238&dq=%22Mount+Sill%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.50347421315776,37.09598174591583</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Russell</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				14,088ft / 4,294mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,088ft. 7th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Russell">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150515/mount-russell.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakR.html#russell">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA74&lpg=PA74&dq=%22Mount+Russell%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29072423322914,36.58999431182396</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Split Mountain</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				14,058ft / 4,285mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,058ft. 8th highest peak in California. Easiest route to summit is class 1. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Split Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150493/split-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#split">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA217&lpg=PA217&dq=%22Split+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.42240947469277,37.02090509628311</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Langley</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				14,026ft / 4,275mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,026ft. 9th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Langley">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150246/mount-langley.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakL.html#langley">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA43&lpg=PA43&dq=%22Mount+Langley%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.23969377428004,36.52337615707282</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Tyndall</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				14,018ft / 4,273mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,018ft. 10th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Tyndall">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150441/mount-tyndall.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#tyndall">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA85&lpg=PA85&dq=%22Mount+Tyndall%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.33690479480224,36.65565202508261</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Middle Palisade</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				14,012ft / 4,271mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 14,012ft. 11th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Middle Palisade">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150514/middle-palisade.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#palisade">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA223&lpg=PA223&dq=%22Middle+Palisade%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.46922611867396,37.070451407266376</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Barnard</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,990ft / 4,264mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,990ft. 12th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Barnard">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151319/mount-barnard.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#barnard">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA79&lpg=PA79&dq=%22Mount+Barnard%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.32156027106471,36.62841911313691</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Humphreys</name>
+			<styleUrl>#class4</styleUrl>
+			<Snippet maxLines="2" >
+				13,986ft / 4,263mClass 4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,986ft. 13th highest peak in California. Easiest route to summit is class 4. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Humphreys">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150440/mount-humphreys.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#humphreys">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA311&lpg=PA311&dq=%22Mount+Humphreys%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67294377837464,37.27055400209669</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Keith</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,975ft / 4,260mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,975ft. 14th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Keith">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151671/mount-keith.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#keith">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA140&lpg=PA140&dq=%22Mount+Keith%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.3434931652753,36.70001902425609</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Stanford (South)</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,973ft / 4,259mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,973ft. 15th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Stanford (South)">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/329817/mount-stanford.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#stanford">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA138&lpg=PA138&dq=%22Mount+Stanford+(South)%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.39583799044452,36.703834132446126</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM662058</name>
+			<styleUrl>#class2-3</styleUrl>
+			<Snippet maxLines="2" >
+				13,962ft / 4,256mClass 2-3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,962ft. 16th highest peak in California. Easiest route to summit is class 2-3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM662058">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA240&lpg=PA240&dq=%22UTM662058%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.50719183033578,37.09052638659643</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trojan Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,947ft / 4,251mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,947ft. 17th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Trojan Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153310/trojan-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#trojan">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA81&lpg=PA81&dq=%22Trojan+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31542102330434,36.64227922107423</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. LeConte</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,930ft / 4,246mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,930ft. 18th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=LeConte">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151452/mount-leconte.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakL.html#leconte">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA47&lpg=PA47&dq=%22Mount+LeConte%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.25171638622406,36.54173085537294</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM838501</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,927ft / 4,245mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,927ft. 19th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM838501">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA74&lpg=PA74&dq=%22UTM838501%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29980559080614,36.59160844858276</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Agassiz</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,893ft / 4,235mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,893ft. 20th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Agassiz">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150921/mount-agassiz.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakA.html#agassiz">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA253&lpg=PA253&dq=%22Mount+Agassiz%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53068712057542,37.11194834088196</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Junction Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,888ft / 4,233mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,888ft. 21st highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Junction Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151509/junction-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakJ.html#junction">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA139&lpg=PA139&dq=%22Junction+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.36628162733999,36.69101587009272</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Norman Clyde Peak</name>
+			<styleUrl>#class3-4</styleUrl>
+			<Snippet maxLines="2" >
+				13,855ft / 4,223mClass 3-4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,855ft. 22nd highest peak in California. Easiest route to summit is class 3-4. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Norman Clyde Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150875/norman-clyde-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakN.html#normanclyde">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA225&lpg=PA225&dq=%22Norman+Clyde+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.47447746957674,37.07444243797299</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Mallory</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,845ft / 4,220mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,845ft. 23rd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Mallory">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151354/mount-mallory.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#mallory">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA59&lpg=PA59&dq=%22Mount+Mallory%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.26222394500199,36.54901221492709</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CalTech Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,832ft / 4,216mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,832ft. 24th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=CalTech Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/397754/caltech-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#caltech">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA139&lpg=PA139&dq=%22CalTech+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.39064410565625,36.68893107996037</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Darwin</name>
+			<styleUrl>#class3s4</styleUrl>
+			<Snippet maxLines="2" >
+				13,831ft / 4,216mClass 3s4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,831ft. 25th highest peak in California. Easiest route to summit is class 3s4. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Darwin">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150490/mount-darwin.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakD.html#darwin">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA291&lpg=PA291&dq=%22Mount+Darwin%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67257172491112,37.16690671241695</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Kaweah</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,802ft / 4,207mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,802ft. 26th highest peak in California. Easiest route to summit is class 1. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Kaweah">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/154759/mount-kaweah.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#kaweah">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA113&lpg=PA113&dq=%22Mount+Kaweah%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.47841688341408,36.52615623736498</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. McAdie</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,799ft / 4,206mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,799ft. 27th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=McAdie">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151986/mount-mcadie.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#mcadie">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA61&lpg=PA61&dq=%22Mount+McAdie%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.27623424418324,36.551747866336626</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Winchell</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,775ft / 4,199mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,775ft. 28th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Winchell">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151010/mount-winchell.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#winchell">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA250&lpg=PA250&dq=%22Mount+Winchell%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.52615092657456,37.104615646590446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Morgan (South)</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,748ft / 4,190mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,748ft. 29th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Morgan (South)">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151316/mount-morgan-s-.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#morgan">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA330&lpg=PA330&dq=%22Mount+Morgan+(South)%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.73299224319081,37.40551663571393</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Gabb</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,741ft / 4,188mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,741ft. 30th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Gabb">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152306/mount-gabb.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#gabb">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA332&lpg=PA332&dq=%22Mount+Gabb%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.80246295988894,37.37680869335475</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bear Creek Spire</name>
+			<styleUrl>#class3s4</styleUrl>
+			<Snippet maxLines="2" >
+				13,720ft / 4,182mClass 3s4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,720ft. 31st highest peak in California. Easiest route to summit is class 3s4. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Bear Creek Spire">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150612/bear-creek-spire.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#bear">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA321&lpg=PA321&dq=%22Bear+Creek+Spire%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.76747225757593,37.36796326816866</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Red Kaweah</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,720ft / 4,182mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,720ft. 32nd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Red Kaweah">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/458903/red-kaweah.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#kaweah">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA113&lpg=PA113&dq=%22Red+Kaweah%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.50560101913989,36.53996898740384</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM829540</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,714ft / 4,180mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,714ft. 33rd highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM829540">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA80&lpg=PA80&dq=%22UTM829540%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31100838688505,36.62610170693511</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Mendel</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,710ft / 4,179mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,710ft. 34th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Mendel">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151225/mount-mendel.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#mendel">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA295&lpg=PA295&dq=%22Mount+Mendel%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.68220860354023,37.174882325269905</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Abbot</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,704ft / 4,177mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,704ft. 35th highest peak in California. Easiest route to summit is class 3. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Abbot">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150485/mount-abbot-petit-griffon.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakA.html#abbot">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA324&lpg=PA324&dq=%22Mount+Abbot%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.78518678040481,37.38644409928305</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Black Kaweah</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,680ft / 4,170mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,680ft. 36th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Black Kaweah">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150911/black-kaweah.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#kaweah">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA108&lpg=PA108&dq=%22Black+Kaweah%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.51587283033517,36.54542784828004</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Midway Mountain</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,664ft / 4,165mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,664ft. 37th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Midway Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151287/midway-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#midway">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA116&lpg=PA116&dq=%22Midway+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.48355932593296,36.643279568107914</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Second Kaweah</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,661ft / 4,164mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,661ft. 38th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Second Kaweah">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#secondkaweah">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA113&lpg=PA113&dq=%22Second+Kaweah%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.49307122050497,36.53318533179034</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Tom</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,652ft / 4,161mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,652ft. 39th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Tom">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151260/mount-tom.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#tom">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA315&lpg=PA315&dq=%22Mount+Tom%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.65695251920391,37.338467695473156</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Milestone Mountain</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,638ft / 4,157mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,638ft. 40th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Milestone Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151284/milestone-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#milestone">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA115&lpg=PA115&dq=%22Milestone+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.48450823352874,36.634433719513986</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Table Mountain</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,632ft / 4,155mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,632ft. 41st highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Table Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/500005/table-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#table">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA116&lpg=PA116&dq=%22Table+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.47369863644353,36.659988250514395</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Ericsson</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,583ft / 4,140mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,583ft. 42nd highest peak in California. Easiest route to summit is class 2. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Ericsson">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/506493/mount-ericsson.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakE.html#ericsson">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA133&lpg=PA133&dq=%22Mount+Ericsson%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.41452181910174,36.69712339782758</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM882683</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,615ft / 4,150mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,615ft. 43rd highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM882683">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.26803845248104,37.6572065728353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birch Mountain</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,602ft / 4,146mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,602ft. 44th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Birch Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151322/birch-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#birch">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA220&lpg=PA220&dq=%22Birch+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.41902557297111,37.06258940318139</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>University Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,589ft / 4,142mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,589ft. 45th highest peak in California. Easiest route to summit is class 2. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=University Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151291/university-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakU.html#university">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA142&lpg=PA142&dq=%22University+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.36180286748845,36.748037786726414</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ed Lane Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,576ft / 4,138mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,576ft. 46th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Ed Lane Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakE.html#edlane">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA220&lpg=PA220&dq=%22Ed+Lane+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.43630804352443,37.06057873746836</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Brewer</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,570ft / 4,136mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,570ft. 47th highest peak in California. Easiest route to summit is class 2. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Brewer">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150509/mount-brewer.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#brewer">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA130&lpg=PA130&dq=%22Mount+Brewer%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.48514608267041,36.70843293632035</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Goddard</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,568ft / 4,136mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,568ft. 48th highest peak in California. Easiest route to summit is class 2. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Goddard">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151731/mount-goddard.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#goddard">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA275&lpg=PA275&dq=%22Mount+Goddard%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.71945505813048,37.10368340911853</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tunnabora Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,563ft / 4,134mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,563ft. 49th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Tunnabora Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151977/tunnabora-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#tunnabora">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA78&lpg=PA78&dq=%22Tunnabora+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.28225719923047,36.605230181839744</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Dubois</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,559ft / 4,133mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,559ft. 50th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Dubois">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/343841/mount-dubois.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakD.html#dubois">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.34344402769632,37.78399498296811</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palisade Crest</name>
+			<styleUrl>#class4</styleUrl>
+			<Snippet maxLines="2" >
+				13,553ft / 4,131mClass 4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,553ft. 51st highest peak in California. Easiest route to summit is class 4. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Palisade Crest">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153354/palisade-crest.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#palisade">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA229&lpg=PA229&dq=%22Palisade+Crest%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.48968973146954,37.081553507896636</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Milestone Mesa</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,547ft / 4,129mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,547ft. 52nd highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Milestone Mesa">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#milestone">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA114&lpg=PA114&dq=%22Milestone+Mesa%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.47615819156749,36.63057112500974</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM794568</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,540ft / 4,127mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,540ft. 53rd highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM794568">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA86&lpg=PA86&dq=%22UTM794568%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.34968623317988,36.65082043576599</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thunder Mountain</name>
+			<styleUrl>#class3s4</styleUrl>
+			<Snippet maxLines="2" >
+				13,517ft / 4,120mClass 3s4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,517ft. 54th highest peak in California. Easiest route to summit is class 3s4. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Thunder Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150591/thunder-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#thunder">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA130&lpg=PA130&dq=%22Thunder+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.47588398406525,36.66897549311754</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cloudripper</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,525ft / 4,122mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,525ft. 55th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Cloudripper">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151202/cloudripper.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#cloudripper">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA254&lpg=PA254&dq=%22Cloudripper%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53051791014137,37.14268678071389</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Squaretop</name>
+			<styleUrl>#class4</styleUrl>
+			<Snippet maxLines="2" >
+				13,517ft / 4,120mClass 4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,517ft. 56th highest peak in California. Easiest route to summit is class 4. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Squaretop">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#squaretop">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA113&lpg=PA113&dq=%22Squaretop%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.49837184161768,36.53582321461763</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Gayley</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,510ft / 4,118mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,510ft. 57th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Gayley">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/154445/mount-gayley.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#gayley">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA236&lpg=PA236&dq=%22Mount+Gayley%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.499786259417,37.10296893201125</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Fiske</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,503ft / 4,116mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,503ft. 58th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Fiske">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/336645/mount-fiske.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakF.html#fiske">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA287&lpg=PA287&dq=%22Mount+Fiske%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6678537714294,37.1366882850765</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Hale</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,494ft / 4,113mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,494ft. 59th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Hale">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/358864/mount-hale.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#hale">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA74&lpg=PA74&dq=%22Mount+Hale%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31461506520834,36.58820086138762</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Pinchot</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,494ft / 4,113mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,494ft. 60th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Pinchot">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/154288/mount-pinchot.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#pinchot">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA171&lpg=PA171&dq=%22Mount+Pinchot%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.40543048863799,36.947283382033376</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Thompson</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,494ft / 4,113mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,494ft. 61st highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Thompson">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151573/mount-thompson.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#thompson">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA280&lpg=PA280&dq=%22Mount+Thompson%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6135013535428,37.1430287169365</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Bolton Brown</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,491ft / 4,112mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,491ft. 62nd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Bolton Brown">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/199214/mount-bolton-brown.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#boltonbrown">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA220&lpg=PA220&dq=%22Mount+Bolton+Brown%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.44098463223737,37.04619014785152</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Pickering</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,474ft / 4,107mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,474ft. 63rd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Pickering">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/209514/mount-pickering.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#pickering">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA44&lpg=PA44&dq=%22Mount+Pickering%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29124528477395,36.52724671577361</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Versteeg</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,470ft / 4,106mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,470ft. 64th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Versteeg">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/154906/mount-versteeg.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakV.html#versteeg">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA81&lpg=PA81&dq=%22Mount+Versteeg%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.32558037641262,36.647665500570554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Twelve Flags Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,440ft / 4,097mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,440ft. 65th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Twelve Flags Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#twelveflags">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.72316503126656,37.41052722276438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM515178</name>
+			<styleUrl>#classUnknown</styleUrl>
+			<Snippet maxLines="2" >
+				13,464ft / 4,104mClass <unknown>
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,464ft. 66th highest peak in California. Easiest route to summit is unknown. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM515178">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67356714333197,37.19672673725561</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Mills</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,451ft / 4,100mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,451ft. 67th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Mills">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151476/mount-mills.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#mills">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA328&lpg=PA328&dq=%22Mount+Mills%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.79021309712378,37.39357842746363</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montgomery Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,441ft / 4,097mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,441ft. 68th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Montgomery Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152138/montgomery-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#montgomery">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.35681571378304,37.83836899999397</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Newcomb</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,422ft / 4,091mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,422ft. 69th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Newcomb">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakN.html#newcomb">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA61&lpg=PA61&dq=%22Mount+Newcomb%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29335516341294,36.53993457019135</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Haeckel</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,418ft / 4,090mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,418ft. 70th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Haeckel">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151234/mount-haeckel.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#haeckel">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA286&lpg=PA286&dq=%22Mount+Haeckel%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.66096227654145,37.15102617397865</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keyhole Plateau</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,404ft / 4,086mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,404ft. 71st highest peak in California. Easiest route to summit is class 1. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Keyhole Plateau">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#keyhole">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA297&lpg=PA297&dq=%22Keyhole+Plateau%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.68036603877363,37.20357074652471</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cardinal Mountain</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,396ft / 4,083mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,396ft. 72nd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Cardinal Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153960/cardinal-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#cardinal">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA217&lpg=PA217&dq=%22Cardinal+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.41257081239955,36.99947942851367</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Jepson</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,390ft / 4,081mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,390ft. 73rd highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Jepson">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152909/mount-jepson.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakJ.html#jepson">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA230&lpg=PA230&dq=%22Mount+Jepson%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.49500836618186,37.0888778147271</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Steven Jay Gould</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,385ft / 4,080mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,385ft. 74th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Steven Jay Gould">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#stevenjaygould">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA297&lpg=PA297&dq=%22Mount+Steven+Jay+Gould%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6868326410602,37.18022458809446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Cleaver</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,383ft / 4,079mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,383ft. 75th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=The Cleaver">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/418993/the-cleaver.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#cleaver">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA78&lpg=PA78&dq=%22The+Cleaver%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.27463874084533,36.59746916119564</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaweah Queen</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,382ft / 4,079mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,382ft. 76th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Kaweah Queen">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#kaweahqueen">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA108&lpg=PA108&dq=%22Kaweah+Queen%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.50845667251059,36.55471656277053</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Wallace</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,377ft / 4,077mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,377ft. 77th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Wallace">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153374/mount-wallace.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#wallace">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA283&lpg=PA283&dq=%22Mount+Wallace%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.65681764404646,37.14684787992545</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vagabond Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,374ft / 4,076mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,374ft. 78th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Vagabond Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153022/vagabond-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakV.html#vagabond">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA255&lpg=PA255&dq=%22Vagabond+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53043253710173,37.149628306916505</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM809631</name>
+			<styleUrl>#classUnknown</styleUrl>
+			<Snippet maxLines="2" >
+				13,320ft / 4,060mClass <unknown>
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,320ft. 79th highest peak in California. Easiest route to summit is unknown. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM809631">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.33467985739867,36.70823105635982</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point Powell</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,360ft / 4,072mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,360ft. 80th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Point Powell">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#powell">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA281&lpg=PA281&dq=%22Point+Powell%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.62538575190112,37.1407031660381</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Powell</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,364ft / 4,073mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,364ft. 81st highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Powell">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151681/mount-powell.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#powell">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA283&lpg=PA283&dq=%22Mount+Powell%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.63401136712946,37.13869178667507</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Hilgard</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,361ft / 4,072mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,361ft. 82nd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Hilgard">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/154554/mount-hilgard.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#hilgard">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA332&lpg=PA332&dq=%22Mount+Hilgard%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.82724854641505,37.360385519315884</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Thumb</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,356ft / 4,071mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,356ft. 83rd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=The Thumb">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/214646/the-thumb.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#thumb">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA220&lpg=PA220&dq=%22The+Thumb%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.4460758109966,37.071547026351546</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Jordan</name>
+			<styleUrl>#class3s4</styleUrl>
+			<Snippet maxLines="2" >
+				13,344ft / 4,067mClass 3s4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,344ft. 84th highest peak in California. Easiest route to summit is class 3s4. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Jordan">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151510/mount-jordan.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakJ.html#jordan">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA133&lpg=PA133&dq=%22Mount+Jordan%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.44972485714828,36.68218713041978</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Black Giant</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,330ft / 4,063mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,330ft. 85th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Black Giant">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151738/black-giant.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#giant">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA273&lpg=PA273&dq=%22Black+Giant%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.64864664456353,37.102345321130755</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joe Devel Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,327ft / 4,062mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,327ft. 86th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Joe Devel Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakJ.html#joedevel">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA43&lpg=PA43&dq=%22Joe+Devel+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.29652176796625,36.51547039799794</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Guard</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,327ft / 4,062mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,327ft. 87th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=North Guard">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152985/north-guard.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#guard">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA131&lpg=PA131&dq=%22North+Guard%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.4900051393508,36.716575168993806</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Royce Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,280ft / 4,048mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,280ft. 88th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Royce Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151712/royce-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakR.html#royce">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA320&lpg=PA320&dq=%22Royce+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.77093656713194,37.318340149129796</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Black Mountain (South)</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,291ft / 4,051mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,291ft. 89th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Black Mountain (South)">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152721/black-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#black">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA167&lpg=PA167&dq=%22Black+Mountain+(South)%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.37790662211648,36.80923945062126</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Picture Puzzle</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,280ft / 4,048mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,280ft. 90th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Picture Puzzle">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/338909/picture-puzzle.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#picturepuzzle">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA254&lpg=PA254&dq=%22Picture+Puzzle%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53888745481379,37.127886374434055</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM698439</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,284ft / 4,049mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,284ft. 91st highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM698439">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA114&lpg=PA114&dq=%22UTM698439%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.45553950611927,36.533108243623275</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. McDuffie</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,282ft / 4,048mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,282ft. 92nd highest peak in California. Easiest route to summit is class 2. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=McDuffie">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153303/mount-mcduffie.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#mcduffie">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA271&lpg=PA271&dq=%22Mount+McDuffie%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.64408670917688,37.07356546392032</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deerhorn Mountain</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,281ft / 4,048mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,281ft. 93rd highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Deerhorn Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153071/deerhorn-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakD.html#deerhorn">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA135&lpg=PA135&dq=%22Deerhorn+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.4103350347513,36.71303822751331</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crumbly Spire</name>
+			<styleUrl>#class4</styleUrl>
+			<Snippet maxLines="2" >
+				13,267ft / 4,044mClass 4
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,267ft. 94th highest peak in California. Easiest route to summit is class 4. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Crumbly Spire">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#crumbly">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA283&lpg=PA283&dq=%22Crumbly+Spire%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.65432838851058,37.14111406940998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aperture Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,265ft / 4,043mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,265ft. 95th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Aperture Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/309643/aperture-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakA.html#aperture">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA253&lpg=PA253&dq=%22Aperture+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53046016594493,37.1174495552802</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Bradley</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,264ft / 4,043mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,264ft. 96th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Bradley">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/208629/mount-bradley.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#bradley">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA141&lpg=PA141&dq=%22Mount+Bradley%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.33872675920946,36.728558107023524</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Goethe</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,264ft / 4,043mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,264ft. 97th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Goethe">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152708/mount-goethe.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#goethe">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA297&lpg=PA297&dq=%22Mount+Goethe%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.70217009447113,37.206143761766164</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Tom Ross</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,253ft / 4,040mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,253ft. 98th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Tom Ross">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/321018/mount-tom-ross.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#tomross">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA297&lpg=PA297&dq=%22Mount+Tom+Ross%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6640408480387,37.178473724407446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gendarme Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,252ft / 4,039mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,252ft. 99th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Gendarme Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/236822/gendarme-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#gendarme">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA253&lpg=PA253&dq=%22Gendarme+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.53154359736958,37.126539276390005</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Feather Peak</name>
+			<styleUrl>#class2-3</styleUrl>
+			<Snippet maxLines="2" >
+				13,242ft / 4,036mClass 2-3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,242ft. 100th highest peak in California. Easiest route to summit is class 2-3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Feather Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151223/feather-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakF.html#feather">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA320&lpg=PA320&dq=%22Feather+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.77811086721121,37.32589361813044</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM519283</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,240ft / 4,036mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,240ft. 101st highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM519283">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA314&lpg=PA314&dq=%22UTM519283%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67249822553447,37.29120047152722</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Guard</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,232ft / 4,033mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,232ft. 102nd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=South Guard">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#guard">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA130&lpg=PA130&dq=%22South+Guard%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.48396322177156,36.69348405991625</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM485400</name>
+			<styleUrl>#classUnknown</styleUrl>
+			<Snippet maxLines="2" >
+				13,200ft / 4,023mClass <unknown>
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,200ft. 103rd highest peak in California. Easiest route to summit is unknown. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM485400">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.7124438668488,37.39617210590498</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM692591</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,228ft / 4,032mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,228ft. 104th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM692591">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA133&lpg=PA133&dq=%22UTM692591%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.46427368390083,36.67038075474393</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Carl Heller</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,225ft / 4,031mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,225ft. 105th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Carl Heller">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/406145/mt-carl-heller.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#carlheller">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA79&lpg=PA79&dq=%22Mount+Carl+Heller%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.2984596917629,36.61136503856881</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Julius Caesar</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,200ft / 4,023mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,200ft. 106th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Julius Caesar">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152196/mount-julius-caesar.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakJ.html#juliuscaesar">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA321&lpg=PA321&dq=%22Mount+Julius+Caesar%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.78166312463834,37.35684475276123</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Warlow</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,206ft / 4,025mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,206ft. 107th highest peak in California. Easiest route to summit is class 1. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Warlow">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153244/mount-warlow.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#warlow">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA287&lpg=PA287&dq=%22Mount+Warlow%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67465067062676,37.12839030026044</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Emerson</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,204ft / 4,025mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,204ft. 108th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Emerson">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151241/mount-emerson.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakE.html#emerson">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA309&lpg=PA309&dq=%22Mount+Emerson%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6541759361023,37.24260624263535</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruby Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,188ft / 4,020mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,188ft. 109th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Ruby Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakR.html#ruby">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA329&lpg=PA329&dq=%22Ruby+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.78210474774049,37.40893263483556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM690535</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,186ft / 4,019mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,186ft. 110th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM690535">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.46555674990286,36.619974865638845</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Hitchcock</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,186ft / 4,019mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,186ft. 111st highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Hitchcock">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#hitchcock">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA64&lpg=PA64&dq=%22Mount+Hitchcock%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31181763578785,36.55496776137622</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Acrodectes Peak</name>
+			<styleUrl>#classUnknown</styleUrl>
+			<Snippet maxLines="2" >
+				13,182ft / 4,018mClass <unknown>
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,182ft. 112nd highest peak in California. Easiest route to summit is unknown. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Acrodectes Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakA.html#acrodectes">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA168&lpg=PA168&dq=%22Acrodectes+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.37501795552683,36.860833858507576</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Basin Mountain</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,181ft / 4,018mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,181ft. 113rd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Basin Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152557/basin-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#basin">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA314&lpg=PA314&dq=%22Basin+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.65818210870235,37.29680975377884</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Wynne</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,179ft / 4,017mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,179ft. 114th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Wynne">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153228/mount-wynne.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#wynne">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA171&lpg=PA171&dq=%22Mount+Wynne%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.40279032593867,36.93803019136679</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Striped Mountain</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,179ft / 4,017mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,179ft. 115th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Striped Mountain">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#striped">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA171&lpg=PA171&dq=%22Striped+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.40363112804488,36.965512837177606</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Young</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,176ft / 4,016mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,176ft. 116th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Young">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/358873/mount-young.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakY.html#young">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA74&lpg=PA74&dq=%22Mount+Young%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.32746478813621,36.58138773450459</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM528173</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,172ft / 4,015mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,172ft. 117th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM528173">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.65949842774107,37.192237672839276</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Chamberlin</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,169ft / 4,014mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,169ft. 118th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Chamberlin">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#chamberlin">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA61&lpg=PA61&dq=%22Mount+Chamberlin%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.31101179093615,36.53370204869872</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Ritter</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,143ft / 4,006mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,143ft. 119th highest peak in California. Easiest route to summit is class 2. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Ritter">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150499/mount-ritter.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakR.html#ritter">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA369&lpg=PA369&dq=%22Mount+Ritter%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.19952384053556,37.689029151019035</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Picture Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,120ft / 3,999mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,120ft. 120th highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Picture Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/370733/picture-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#picture">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA285&lpg=PA285&dq=%22Picture+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.64913333607778,37.15074064349743</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Baxter</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,136ft / 4,004mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,136ft. 121st highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Baxter">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151657/mount-baxter.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#baxter">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA168&lpg=PA168&dq=%22Mount+Baxter%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.36527843813927,36.86193763120335</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Red Slate Mountain</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,123ft / 4,000mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,123ft. 122nd highest peak in California. Easiest route to summit is class 1. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Red Slate Mountain">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150597/red-slate-mountain.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#slate">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA345&lpg=PA345&dq=%22Red+Slate+Mountain%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.86918128726552,37.50762895572236</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diamond Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,127ft / 4,001mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,127ft. 123rd highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Diamond Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150976/diamond-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakD.html#diamond">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA168&lpg=PA168&dq=%22Diamond+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.3900992843137,36.82640482139408</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Checkered Demon</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,121ft / 3,999mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,121ft. 124th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Checkered Demon">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151235/checkered-demon.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#checkereddemon">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA311&lpg=PA311&dq=%22Checkered+Demon%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.66049684764626,37.25838109232929</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Lyell</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,114ft / 3,997mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,114ft. 125th highest peak in California. Easiest route to summit is class 3. This is an SPS Emblem peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Lyell">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150494/mount-lyell.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakL.html#lyell">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA393&lpg=PA393&dq=%22Mount+Lyell%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.27182340648173,37.73947584332719</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Gilbert</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,106ft / 3,995mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,106ft. 126th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Gilbert">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151224/mount-gilbert.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#gilbert">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA278&lpg=PA278&dq=%22Mount+Gilbert%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.59839327602687,37.136653523667206</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM722049</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,104ft / 3,994mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,104ft. 127th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM722049">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA222&lpg=PA222&dq=%22UTM722049%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.43944067386681,37.083525835344034</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Merriam Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,103ft / 3,994mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,103ft. 128th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Merriam Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151102/merriam-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#merriam">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA318&lpg=PA318&dq=%22Merriam+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.76508355996593,37.30932444049214</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Charybdis</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,096ft / 3,992mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,096ft. 129th highest peak in California. Easiest route to summit is class 3. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Charybdis">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151458/charybdis.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakC.html#charybdis">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA273&lpg=PA273&dq=%22Charybdis%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6682217939157,37.086748752972845</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Huxley</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				13,086ft / 3,989mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,086ft. 130th highest peak in California. Easiest route to summit is class 3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Huxley">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakH.html#huxley">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA288&lpg=PA288&dq=%22Mount+Huxley%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.68281171619209,37.13602626241992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Goode</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,085ft / 3,988mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,085ft. 131st highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Goode">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151070/mount-goode.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#goode">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA277&lpg=PA277&dq=%22Mount+Goode%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.56794280139715,37.1230891395954</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seven Gables</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,080ft / 3,987mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,080ft. 132nd highest peak in California. Easiest route to summit is class 2. This is an SPS Mountaineers peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Seven Gables">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151635/seven-gables.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#sevengables">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA316&lpg=PA316&dq=%22Seven+Gables%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.8331612547764,37.310993517600345</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM888455</name>
+			<styleUrl>#class2-3</styleUrl>
+			<Snippet maxLines="2" >
+				13,074ft / 3,985mClass 2-3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,074ft. 133rd highest peak in California. Easiest route to summit is class 2-3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM888455">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA51&lpg=PA51&dq=%22UTM888455%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.2425841821883,36.55048043499817</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM762773</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,071ft / 3,984mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,071ft. 134th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM762773">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA168&lpg=PA168&dq=%22UTM762773%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.38969843998488,36.83524337112086</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Twin Peaks</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,061ft / 3,981mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,061ft. 135th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Twin Peaks">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakT.html#twin">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.4519254533576,37.036141659224285</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Dana</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,057ft / 3,980mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,057ft. 136th highest peak in California. Easiest route to summit is class 1. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Dana">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150284/mount-dana.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakD.html#dana">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA376&lpg=PA376&dq=%22Mount+Dana%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.22113834441994,37.89994866981415</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Genevra</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,054ft / 3,979mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,054ft. 137th highest peak in California. Easiest route to summit is class 2. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Genevra">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#genevra">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA133&lpg=PA133&dq=%22Mount+Genevra%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.43430273905565,36.68336538780396</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Mary Austin</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,051ft / 3,978mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,051ft. 138th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Mary Austin">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151600/mount-mary-austin.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#maryaustin">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA167&lpg=PA167&dq=%22Mount+Mary+Austin%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.36321482569913,36.81517778244849</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM542055</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,041ft / 3,975mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,041ft. 139th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM542055">VulgarianRamblers.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.64144458413166,37.08667162211947</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Barcroft</name>
+			<styleUrl>#class1</styleUrl>
+			<Snippet maxLines="2" >
+				13,040ft / 3,975mClass 1
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,040ft. 140th highest peak in California. Easiest route to summit is class 1. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Barcroft">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakB.html#barcroft">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.24819386759108,37.58224856939386</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Solomons</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,034ft / 3,973mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,034ft. 141st highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Solomons">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151750/mount-solomons.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakS.html#solomons">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA275&lpg=PA275&dq=%22Mount+Solomons%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.67416864269069,37.10649453075051</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polychrome Peak</name>
+			<styleUrl>#class3</styleUrl>
+			<Snippet maxLines="2" >
+				12,992ft / 3,960mClass 3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 12,992ft. 142nd highest peak in California. Easiest route to summit is class 3. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Polychrome Peak">VulgarianRamblers.org</a></li><li><a href="http://climber.org/TripReports/ByPeakP.html#polychrome">Climber.org</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.33474103283613,36.672893878299476</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTM574131</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,000ft / 3,962mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,000ft. 143rd highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=UTM574131">VulgarianRamblers.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA279&lpg=PA279&dq=%22UTM574131%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.6070073028408,37.15537519765651</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wheeler Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,000ft / 3,962mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,000ft. 144th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Wheeler Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/153496/wheeler-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakW.html#wheeler">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA331&lpg=PA331&dq=%22Wheeler+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.69768248074524,37.41783577846272</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Gould</name>
+			<styleUrl>#class1s3</styleUrl>
+			<Snippet maxLines="2" >
+				13,005ft / 3,964mClass 1s3
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,005ft. 145th highest peak in California. Easiest route to summit is class 1s3. This is an SPS Regular peak. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Gould">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/151259/mount-gould.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakG.html#gould">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA166&lpg=PA166&dq=%22Mount+Gould%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.37794257333483,36.779942837613994</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuna Peak</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,002ft / 3,963mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,002ft. 146th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Kuna Peak">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/150596/kuna-peak.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakK.html#kuna">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA376&lpg=PA376&dq=%22Kuna+Peak%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.20819321427697,37.812959478279645</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt. Morgan (North)</name>
+			<styleUrl>#class2</styleUrl>
+			<Snippet maxLines="2" >
+				13,002ft / 3,963mClass 2
+			</Snippet>
+			<description>
+				<![CDATA[
+					Elevation 13,002ft. 147th highest peak in California. Easiest route to summit is class 2. Other sources of information:<ul><li><a href="http://www.vulgarianramblers.org/peak_detail.php?peak_name=Morgan (North)">VulgarianRamblers.org</a></li><li><a href="http://www.summitpost.org/mountain/rock/152146/mount-morgan-n-.html">SummitPost.org</a></li><li><a href="http://climber.org/TripReports/ByPeakM.html#morgan">Climber.org</a></li><li><a href="http://books.google.com/books?id=R6mcvANvKasC&pg=PA344&lpg=PA344&dq=%22Mount+Morgan+(North)%22">Secor 2nd Edition (Google Books)</a></li></ul>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-118.77978259311989,37.511262775592485</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
